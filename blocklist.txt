@@ -18,4 +18,5 @@
 ||watson.de^$empty
 ||news.google.de^$empty
 ||zdf.de^$empty
+||taz.de^$empty
 google.de,google.com#?##rso div:contains(Schlagzeilen)
