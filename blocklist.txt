@@ -3,14 +3,13 @@
 ||sz.de^$empty
 ||heise.de^$empty
 ||spiegel.de^$empty
-||twitter.de^$empty
+||twitter.*^$empty
 ||morgenpost.de^$empty
 ||finanzen.net^$empty
 ||newyorker.com^$empty
 ||br.de^$empty
 ||faz.net^$empty
 ||sueddeutsche.de^$empty
-||twitter.com^$empty
 ||economist.com^$empty
 ||flightradar24.com^$empty
 ||tagesschau.de^$empty
@@ -23,4 +22,4 @@
 ||stern.de^$empty
 ||welt.de^$empty
 ||dw.com^$empty
-google.de,google.com#?##rso div:contains(Schlagzeilen)
+google.*#?##rso div:contains(Schlagzeilen)
