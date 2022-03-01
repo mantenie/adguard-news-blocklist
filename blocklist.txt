@@ -22,4 +22,5 @@
 ||focus.de^$empty
 ||stern.de^$empty
 ||welt.de^$empty
+||dw.com^$empty
 google.de,google.com#?##rso div:contains(Schlagzeilen)
