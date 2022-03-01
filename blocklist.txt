@@ -14,3 +14,4 @@
 ||economist.com^$empty
 ||flightradar24.com^$empty
 ||tagesschau.de^$empty
+||bild.de^$empty
