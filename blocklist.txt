@@ -18,4 +18,4 @@
 ||watson.de^$empty
 ||news.google.de^$empty
 ||zdf.de^$empty
-google.de##g-section-with-header
+google.de#?##rso div:contains(Schlagzeilen)
