@@ -22,5 +22,7 @@
 ||stern.de^$empty
 ||welt.de^$empty
 ||dw.com^$empty
+||handelsblatt.com^$empty
+||rnd.de^$empty
 google.*#?##rso div:contains(Schlagzeilen)
 google.*#?##rso div:contains(Videos)
