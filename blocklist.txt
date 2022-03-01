@@ -15,3 +15,5 @@
 ||flightradar24.com^$empty
 ||tagesschau.de^$empty
 ||bild.de^$empty
+||watson.de^$empty
+||news.google.de^$empty
