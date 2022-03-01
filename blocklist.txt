@@ -17,3 +17,4 @@
 ||bild.de^$empty
 ||watson.de^$empty
 ||news.google.de^$empty
+||zdf.de^$empty
