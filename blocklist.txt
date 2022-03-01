@@ -19,4 +19,7 @@
 ||news.google.de^$empty
 ||zdf.de^$empty
 ||taz.de^$empty
+||focus.de^$empty
+||stern.de^$empty
+||welt.de^$empty
 google.de,google.com#?##rso div:contains(Schlagzeilen)
