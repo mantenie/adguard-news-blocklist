@@ -24,5 +24,6 @@
 ||dw.com^$empty
 ||handelsblatt.com^$empty
 ||rnd.de^$empty
+||n-tv.de^$empty
 google.*#?##rso div:contains(Schlagzeilen)
 google.*#?##rso div:contains(Videos)
